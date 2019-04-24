@@ -9,11 +9,11 @@ npm install -g yarn
     
 •	Then create your React app with the following command:
 
-    create-react-app counter-app
+    create-react-app ReactTesting-app
     
   •	Once the application has been created, cd into the ReactTesting-app directory and run yarn start to launch the development server. 
 
-  cd counter-app
+  cd ReactTesting-app
   yarn start
 
  yarn test
